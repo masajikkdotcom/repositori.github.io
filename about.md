@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About US
 permalink: /about/
 ---
 
-Some information about you!
+Komunitas Pikiran Super Indonesia (KPSI) adalah organisasi kepemudaan yang bergerak dibidang pengembangan diri dan sebagai sarana untuk menemukan potensi serta mengembangkannya.
 
-### More Information
+### Contact Us
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[support@pikiransuper.or.id](mailto:support@pikiransuper.or.id)
